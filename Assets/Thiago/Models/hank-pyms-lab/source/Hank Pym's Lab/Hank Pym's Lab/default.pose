@@ -1,0 +1,45 @@
+arcade antman2 hanklab a01: 0 0 0 0 0 0 1 1 1
+light: 0 0 0 0 0 0 1 1 1
+blue light: 0 0 0 0 0 0 1 1 1
+ch light: 0 0 0 0 0 0 1 1 1
+led spotlight: 0 0 0 0 0 0 1 1 1
+yellow light: 0 0 0 0 0 0 1 1 1
+white light: 0 0 0 0 0 0 1 1 1
+red light: 0 0 0 0 0 0 1 1 1
+point light: 0 0 0 0 0 0 1 1 1
+blue light (3): 0 0 0 0 0 0 1 1 1
+blue light (4): 0 0 0 0 0 0 1 1 1
+blue light (5): 0 0 0 0 0 0 1 1 1
+blue light (6): 0 0 0 0 0 0 1 1 1
+blue light (7): 0 0 0 0 0 0 1 1 1
+blue light (8): 0 0 0 0 0 0 1 1 1
+blue light (9): 0 0 0 0 0 0 1 1 1
+blue light (10): 0 0 0 0 0 0 1 1 1
+blue light (11): 0 0 0 0 0 0 1 1 1
+blue light (12): 0 0 0 0 0 0 1 1 1
+blue light (13): 0 0 0 0 0 0 1 1 1
+blue light (14): 0 0 0 0 0 0 1 1 1
+blue light (15): 0 0 0 0 0 0 1 1 1
+blue light (1): 0 0 0 0 0 0 1 1 1
+blue light (2): 0 0 0 0 0 0 1 1 1
+blue light (16): 0 0 0 0 0 0 1 1 1
+blue light (17): 0 0 0 0 0 0 1 1 1
+blue light (18): 0 0 0 0 0 0 1 1 1
+object: 0 0 0 0 0 0 1 1 1
+terrain: 0 0 0 0 0 0 1 1 1
+shadow: 0 0 0 0 0 0 1 1 1
+plane: 0 0 0 0 0 0 1 1 1
+arcade antman2 hanklab a01 alp 01: 0 0 0 0 0 0 1 1 1
+arcade antman2 hanklab a01 ceil 01: 0 0 0 0 0 0 1 1 1
+arcade antman2 hanklab a01 obj 01: 0 0 0 0 0 0 1 1 1
+arcade antman2 hanklab a01 obj 02: 0 0 0 0 0 0 1 1 1
+arcade antman2 hanklab a01 obj 03: 0 0 0 0 0 0 1 1 1
+arcade antman2 hanklab a01 obj 04: 0 0 0 0 0 0 1 1 1
+arcade antman2 hanklab a01 ter 04: 0 0 0 0 0 0 1 1 1
+arcade antman2 hanklab a01 wall 02: 0 0 0 0 0 0 1 1 1
+arcade antman2 hanklab a01 wall 01: 0 0 0 0 0 0 1 1 1
+arcade antman2 hanklab a01 navi: 0 0 0 0 0 0 1 1 1
+arcade antman2 hanklab a01 navi 02: 0 0 0 0 0 0 1 1 1
+arcade antman2 hanklab a01 ter 01: 0 0 0 0 0 0 1 1 1
+arcade antman2 hanklab a01 ter 02: 0 0 0 0 0 0 1 1 1
+arcade antman2 hanklab a01 ter 03: 0 0 0 0 0 0 1 1 1
